@@ -71,6 +71,6 @@ Hi! I'm <strong>Minghao Yan (in Chinese: 闫明浩)</strong>, a 5th-year Master 
 
 Currenly, I'm a research assistant at Rice University Sketching and Hashing Lab supervised by Prof. Anshumali Shrivastava. I am interested in large scale machine learning and am focusing on leveraging hashing and sketching techniques to build machine learning systems.
 
-I am applying to Ph.D. programs in Computer Science in <strong>Fall 2021</strong>
+I am applying to Ph.D. programs in Computer Science in <strong>Fall 2021</strong>.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" >}}CV{{< /staticref >}}.
