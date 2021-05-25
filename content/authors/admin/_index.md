@@ -73,4 +73,4 @@ Currenly, I'm a research assistant at Rice University Sketching and Hashing Lab 
 
 I am applying to Ph.D. programs in Computer Science in <strong>Fall 2021</strong>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/" "resume.pdf" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" >}}CV{{< /staticref >}}.
