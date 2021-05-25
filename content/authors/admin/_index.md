@@ -56,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,4 +73,4 @@ Currenly, I'm a research assistant at Rice University Sketching and Hashing Lab 
 
 I am applying to Ph.D. programs in Computer Science in <strong>Fall 2021</strong>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/" "resume.pdf" >}}CV{{< /staticref >}}.
