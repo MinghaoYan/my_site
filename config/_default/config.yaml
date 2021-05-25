@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Minghao Yan # Website name
-baseurl: 'minghaoyan.github.io' # Website URL
+baseurl: 'minghaoyan.netlify.app' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
