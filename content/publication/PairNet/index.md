@@ -7,7 +7,7 @@ date: 2021-06-17T10:40:23-06:00
 doi: ""
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "media/pairConnect.pdf"
+url_pdf:
 url_code: 
 url_dataset:
 url_poster:
