@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2106.08235v1.pdf
+url_pdf: "media/pairConnect.pdf"
 url_code: 
 url_dataset:
 url_poster:
