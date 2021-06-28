@@ -47,7 +47,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://news.rice.edu/2021/06/28/rambo-speeds-searches-on-huge-dna-databases-2/
+url_source: 
 url_video: https://www.youtube.com/watch?v=SeHT1cjIP90&list=PL3xUNnH4TdbsfndCMn02BqAAgGB0z7cwq
 
 # Featured image
