@@ -41,13 +41,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3448016.3457333
 url_code: 
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://news.rice.edu/2021/06/28/rambo-speeds-searches-on-huge-dna-databases-2/
 url_video: https://www.youtube.com/watch?v=SeHT1cjIP90&list=PL3xUNnH4TdbsfndCMn02BqAAgGB0z7cwq
 
 # Featured image
