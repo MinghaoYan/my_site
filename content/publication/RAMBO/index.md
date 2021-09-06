@@ -41,7 +41,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://dl.acm.org/doi/pdf/10.1145/3448016.3457333
+url_pdf: "RAMBO.pdf"
 url_code: 
 url_dataset:
 url_poster:
