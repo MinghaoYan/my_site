@@ -6,7 +6,7 @@ title: Minghao Yan
 superuser: true
 
 # Role/position/tagline
-role: MS Student in Computer Science
+role: Master student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.rice.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in large scale machine learning and am focusing on leveraging hashing and sketching techniques to build machine learning systems.
+bio: I am interested in building systems for large scale machine learning tasks, especially deep learning related workloads.
 
 # Interests to show in About widget
 interests:
@@ -45,7 +45,7 @@ social:
   link: https://twitter.com/minghao__yan
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=JqkP85QAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=grTN4yQAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/MinghaoYan
@@ -69,6 +69,6 @@ highlight_name: true
 
 Hi! I'm <strong>Minghao Yan (in Chinese: 闫明浩)</strong>, an MS student of Computer Science at Rice University. I obtained my B.S. from Rice University (Summa Cum Laude) in 2021.
 
-Currenly, I'm a research assistant at Rice University Sketching and Hashing Lab supervised by Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a>. I am interested in large scale machine learning and am focusing on leveraging hashing and sketching techniques to build machine learning systems.
+Currenly, I'm a research assistant at Rice University Sketching and Hashing Lab supervised by Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a>. I am interested in buidling systems for large scale machine learning tasks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" >}}CV{{< /staticref >}}.
