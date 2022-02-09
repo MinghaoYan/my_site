@@ -23,7 +23,7 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: In submission to NeurIPS 2021.
 publication_short: Arxiv
-abstract: "Transformer models have demonstrated superior performance in natural language processing. The dot product self-attention in Transformer allows us to model interactions between words. However, this modeling comes with significant computational overhead. In this work, we revisit the memory-compute trade-off associated with Transformer, particularly multi-head attention, and show a memory-heavy but significantly more compute-efficient alternative to Transformer. Our proposal, denoted as PairConnect, a multilayer perceptron (MLP), models the pairwise interaction between words by explicit pairwise word embeddings. As a result, PairConnect substitutes self dot product with a simple embedding lookup. We show mathematically that despite being an MLP, our compute-efficient PairConnect is strictly more expressive than Transformer. Our experiment on language modeling tasks suggests that PairConnect could achieve comparable results with Transformer while reducing the computational cost associated with inference significantly."
+abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
