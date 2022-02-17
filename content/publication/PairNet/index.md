@@ -22,7 +22,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In submission to ACL 2022.
-publication_short: Arxiv
+publication_short: In submission to ACL 2022.
 abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
