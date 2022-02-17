@@ -21,7 +21,7 @@ publishDate: 2021-03-12T10:40:23-06:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In submission to NeurIPS 2021.
+publication: In submission to ACL 2022.
 publication_short: Arxiv
 abstract: ""
 # Summary. An optional shortened abstract.
