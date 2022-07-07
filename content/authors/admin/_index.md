@@ -6,12 +6,12 @@ title: Minghao Yan
 superuser: true
 
 # Role/position/tagline
-role: Master student in Computer Science
+role: PhD student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Rice University
-  url: https://www.rice.edu/
+- name: University of Wisconsin–Madison
+  url: https://www.cs.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in building systems for large scale machine learning tasks, especially deep learning related workloads.
@@ -20,11 +20,14 @@ bio: I am interested in building systems for large scale machine learning tasks,
 interests:
 - System for Machine Learning
 - Large Scale Machine Learning
-- Data Management for Machine Learning
+- High Performance Computing
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: University of Wisconsin–Madison 
+    year: 2022 - ?
   - course: MS in Computer Science
     institution: Rice University 
     year: 2022
@@ -67,10 +70,10 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I'm <strong>Minghao Yan (in Chinese: 闫明浩)</strong>, an MS student of Computer Science at Rice University. I obtained my B.S. from Rice University (Summa Cum Laude) in 2021.
+Hi! I'm <strong>Minghao Yan (in Chinese: 闫明浩)</strong>, a PhD student in Computer Science at University of Wisconsin–Madison. I obtained my B.S. (Summa Cum Laude) and M.S. degrees from Rice University in 2021 and 2022, respectively.
 
-Currenly, I'm a research assistant at Rice University Sketching and Hashing Lab supervised by Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a>. I am interested in buidling systems for large scale machine learning tasks.
+At Rice, I was fortunate to have worked with Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a> on using data structure techniques to accelerate DNA sequence querying and large neural network training. I am broadly interested in buidling systems for large scale machine learning tasks.
 
-Email: minghao dot yan at rice dot edu
+Email: minghao dot yan at wisc dot edu
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" >}}CV{{< /staticref >}}.
