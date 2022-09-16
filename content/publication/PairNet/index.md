@@ -21,8 +21,8 @@ publishDate: 2021-03-12T10:40:23-06:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In submission to ACL 2022.
-publication_short: In submission to ACL 2022.
+publication: 
+publication_short: 
 abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
