@@ -14,12 +14,12 @@ organizations:
   url: https://www.cs.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in building systems for large scale machine learning tasks, especially deep learning related workloads.
+bio: I am interested in building systems for deep learning workloads.
 
 # Interests to show in About widget
 interests:
-- System for Machine Learning
-- Large Scale Machine Learning
+- System for Deep Learning
+- Sustainable Deep Learning
 - High Performance Computing
 
 # Education to show in About widget
@@ -70,10 +70,10 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I'm <strong>Minghao Yan (in Chinese: 闫明浩)</strong>, a PhD student in Computer Science at University of Wisconsin–Madison. I obtained my B.S. (Summa Cum Laude) and M.S. degrees from Rice University in 2021 and 2022, respectively.
+Hi! I'm <strong>Minghao Yan (in Chinese: 闫明浩)</strong>, a PhD student in Computer Science at University of Wisconsin–Madison working with Prof.<a href="https://shivaram.org/"> Shivaram Venkataraman</a>. I obtained my B.S. (Summa Cum Laude) and M.S. degrees from Rice University in 2021 and 2022, respectively.
 
-At Rice, I was fortunate to have worked with Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a> on using data structure techniques to accelerate DNA sequence querying and large neural network training. I am broadly interested in buidling systems for large scale machine learning tasks.
+At Rice, I was fortunate to have worked with Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a> on using data structure techniques to accelerate large-scale distributed neural network training and DNA sequence query. I am broadly interested in buidling systems for deep learning workloads.
 
-Email: minghao dot yan at wisc dot edu
+Email: myan at cs dot wisc dot edu
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" >}}CV{{< /staticref >}}.
