@@ -72,7 +72,7 @@ highlight_name: true
 
 Hi! I'm <strong>Minghao Yan (in Chinese: 闫明浩)</strong>, a PhD student in Computer Science at University of Wisconsin–Madison working with Prof.<a href="https://shivaram.org/"> Shivaram Venkataraman</a>. I obtained my B.S. (Summa Cum Laude) and M.S. degrees from Rice University in 2021 and 2022, respectively.
 
-At Rice, I was fortunate to have worked with Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a> on using data structure techniques to accelerate large-scale distributed neural network training and DNA sequence query. I am broadly interested in buidling systems for deep learning workloads.
+At Rice, I was fortunate to have worked with Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a> on using data structure techniques to accelerate large-scale distributed neural network training and DNA sequence query. I am broadly interested in building systems for deep learning workloads.
 
 Email: myan at cs dot wisc dot edu
 
