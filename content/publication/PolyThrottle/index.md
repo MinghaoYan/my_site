@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2310.19991
+url_pdf: "PolyThrottle.pdf"
 url_code: 
 url_dataset:
 url_poster:
