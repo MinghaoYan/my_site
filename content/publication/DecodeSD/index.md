@@ -3,7 +3,7 @@
 
 title: "Decoding Speculative Decoding"
 authors: [Minghao Yan, Saurabh Agarwal, Shivaram Venkataraman]
-date: 2024-02-05T10:40:23-06:00
+date: 2024-02-02T10:40:23-06:00
 doi: ""
 
 # Author notes (optional)
@@ -12,7 +12,7 @@ doi: ""
 # - "Equal contribution"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-02-05T10:40:23-06:00
+publishDate: 2024-02-02T10:40:23-06:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
