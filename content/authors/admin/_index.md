@@ -19,7 +19,7 @@ bio: I am interested in building systems for deep learning workloads.
 # Interests to show in About widget
 interests:
 - System for Deep Learning
-- Sustainable Deep Learning
+- System for LLMs
 - High Performance Computing
 
 # Education to show in About widget
@@ -73,6 +73,6 @@ highlight_name: true
 
 Hi! I'm <strong>Minghao Yan (in Chinese: 闫明浩)</strong>, a PhD student in Computer Science at University of Wisconsin–Madison working with Prof.<a href="https://shivaram.org/"> Shivaram Venkataraman</a>. I obtained my B.S. (Summa Cum Laude) and M.S. degrees from Rice University in 2021 and 2022, respectively.
 
-At Rice, I was fortunate to have worked with Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a> on large-scale deep learning and similarity search. I am broadly interested in building systems for deep learning workloads.
+At Rice, I was fortunate to have worked with Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a> on large-scale deep learning and similarity search. I am broadly interested in building systems for deep learning workloads, especially LLMs.
 
 Email: myan at cs dot wisc dot edu
