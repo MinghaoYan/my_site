@@ -21,7 +21,7 @@ publishDate: 2021-03-12T10:40:23-06:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Management of Data (SIGMOD) 2021.
+publication: 2021 ACM SIGMOD/PODS International Conference on Management of Data
 publication_short: SIGMOD 2021
 abstract: ""
 
