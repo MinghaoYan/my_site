@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Scaling Inference-Efficient Language Models"
-authors: [Song Bian*, Minghao Yan*, Shivaram Venkataraman]
-date: 2025-01-30T10:40:23-06:00
+title: "https://arxiv.org/pdf/2501.14249"
+authors: [Scale AI]
+date: 2025-01-24T10:40:23-06:00
 doi: ""
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-01-30T10:40:23-06:00
+publishDate: 2025-01-24T10:40:23-06:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: 
 publication_short: 
-abstract: "Scaling laws are powerful tools to predict the performance of large language models. However, current scaling laws fall short of accounting for inference costs. In this work, we first show that model architecture affects inference latency, where models of the same size can have up to 3.5x difference in latency. To tackle this challenge, we modify the Chinchilla scaling laws to co-optimize the model parameter count, the number of training tokens, and the model architecture. Due to the reason that models of similar training loss exhibit gaps in downstream evaluation, we also propose a novel method to train inference-efficient models based on the revised scaling laws. We perform extensive empirical studies to fit and evaluate our inference-aware scaling laws. We vary model parameters from 80M to 1B, training tokens from 1.6B to 30B, and model shapes, training a total of 63 models. Guided by our inference-efficient scaling law and model selection method, we release the Morph-1B model, which improves inference latency by 1.8x while maintaining accuracy on downstream tasks compared to open-source models, pushing the Pareto frontier of accuracy-latency tradeoff."
+abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2501.18107
+url_pdf: https://arxiv.org/pdf/2501.14249
 url_code: 
 url_dataset:
 url_poster:
