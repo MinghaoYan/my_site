@@ -7,7 +7,7 @@ date: 2025-01-30T10:40:23-06:00
 doi: ""
 
 # Author notes (optional)
-# author_notes:
+author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
