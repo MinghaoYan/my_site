@@ -18,8 +18,8 @@ bio: I am interested in building systems for deep learning workloads.
 
 # Interests to show in About widget
 interests:
-- System for Deep Learning
-- System for LLMs
+- Efficient LLMs
+- Systems for LLMs
 - High Performance Computing
 
 # Education to show in About widget
