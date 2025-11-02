@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.computer.org/csdl/proceedings-article/escience/2025/914500a196/2aCqdGgW27m
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11181545
 url_code: 
 url_dataset:
 url_poster:
