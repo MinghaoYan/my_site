@@ -21,8 +21,8 @@ publishDate: 2025-10-18T10:40:23-06:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short: Arxiv
+publication: NeurIPS 2025 Scaling Environments for Agents (SEA) Workshop
+publication_short: SEA @ NeurIPS 2025
 abstract: "Large Language Models (LLMs), such as OpenAI-o1 and DeepSeek-R1, have demonstrated strong reasoning capabilities. To further enhance LLM capabilities, recent agentic systems, such as Deep Research, incorporate web interactions into LLM reasoning to mitigate uncertainties and reduce potential errors. However, existing research predominantly focuses on reasoning performance, often neglecting the efficiency of agentic systems. In this work, we present a comprehensive empirical study that identifies efficiency bottlenecks in web-interactive agentic systems. We decompose end-to-end latency into two primary components: LLM API latency and web environment latency. We conduct a comprehensive empirical study across 15 models and 5 providers to demonstrate high variability in API-based agentic systems. We observe that web environment latency can contribute as much as 53.7% to the overall latency in a web-based agentic system. To improve latency, we propose SpecCache, a caching framework augmented with speculative execution that can reduce web environment overhead. Extensive evaluations on two standard benchmarks show that our approach improves the cache hit rate by up to 58× compared to a random caching strategy, while reducing web environment overhead by up to 3.2×, without degrading agentic system performance."
 # Summary. An optional shortened abstract.
 summary: ""
