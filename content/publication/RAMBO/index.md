@@ -2,7 +2,27 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Fast Processing and Querying of 170TB of Genomics Data via a Repeated And Merged BloOm Filter (RAMBO)"
-authors: [Gaurav Gupta*, Minghao Yan*, Benjamin Coleman, Bryce Kille, R. A. Leo Elworth, Tharun Medini, Todd Treangen, Anshumali Shrivastava]
+authors:
+- name: Minghao Yan
+- name: Bo Peng
+  author_notes: [0]
+- name: Benjamin Coleman
+  author_notes: [0]
+- name: Ziqi Chen
+- name: Zhouhang Xie
+- name: Zhankui He
+- name: Noveen Sachdeva
+- name: Isabella Ye
+- name: Weili Wang
+- name: Chi Wang
+- name: Ed H. Chi
+- name: Wang-Cheng Kang
+- name: Derek Zhiyuan Cheng
+- name: Beidou Wang
+
+author_notes:
+- "Equal contribution"
+
 date: 2021-03-12T10:40:23-06:00
 doi: ""
 
