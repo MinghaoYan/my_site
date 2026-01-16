@@ -75,6 +75,6 @@ Hi! I'm <strong>Minghao Yan (in Chinese: 闫明浩)</strong>, a PhD student in C
 
 At Rice, I was fortunate to have worked with Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a> on large-scale deep learning and similarity search. I am broadly interested in LLMs, including but limited to agents, scaling laws, and efficient systems. Recently, I have been thinking about how to build agents that can do <a href="https://arxiv.org/pdf/2601.10657">cutting-edge research</a>. 
 
-<p style="color: red;"> I will be on the job market for full-time industry positions beginning in Fall 2026. </p>
+<p style="color: #a11212;"> I will be on the job market for full-time industry positions beginning in Fall 2026. </p>
 
 Email: myan at cs dot wisc dot edu
