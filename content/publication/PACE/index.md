@@ -2,12 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PACEvolve: Enabling Long-Horizon Progress-Aware Consistent Evolution"
-authors: [Minghao Yan, Bo Peng, Benjamin Coleman, Ziqi Chen, Zhouhang Xie, Zhankui He, Noveen Sachdeva, Isabella Ye, Weili Wang, Chi Wang, Ed H. Chi, Wang-Cheng Kang, Derek Zhiyuan Cheng, Beidou Wang]
+authors: [Minghao Yan, Bo Peng*, Benjamin Coleman*, Ziqi Chen, Zhouhang Xie, Zhankui He, Noveen Sachdeva, Isabella Ye, Weili Wang, Chi Wang, Ed H. Chi, Wang-Cheng Kang, Derek Zhiyuan Cheng, Beidou Wang]
 date: 2026-01-15T10:40:23-06:00
 doi: ""
 
 # Author notes (optional)
-# author_notes:
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-01-15T10:40:23-06:00
