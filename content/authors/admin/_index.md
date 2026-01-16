@@ -14,12 +14,12 @@ organizations:
   url: https://www.cs.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in building LLMs.
+bio: I am interested in building LLM Agents.
 
 # Interests to show in About widget
 interests:
-- LLM Training
 - LLM Agents
+- LLM Training
 - Efficient LLMs
 
 # Education to show in About widget
@@ -73,6 +73,8 @@ highlight_name: true
 
 Hi! I'm <strong>Minghao Yan (in Chinese: 闫明浩)</strong>, a PhD student in Computer Science at University of Wisconsin–Madison working with Prof.<a href="https://shivaram.org/"> Shivaram Venkataraman</a>. I obtained my B.S. (Summa Cum Laude) and M.S. degrees from Rice University in 2021 and 2022, respectively.
 
-At Rice, I was fortunate to have worked with Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a> on large-scale deep learning and similarity search. I am broadly interested in LLMs, including but limited to agents, scaling laws, and efficient systems.
+At Rice, I was fortunate to have worked with Prof.<a href="https://www.cs.rice.edu/~as143/"> Anshumali Shrivastava</a> on large-scale deep learning and similarity search. I am broadly interested in LLMs, including but limited to agents, scaling laws, and efficient systems. Recently, I have been thinking about how to build agents that can do <a href="https://arxiv.org/pdf/2601.10657">cutting-edge research</a>. 
+
+<p style="color: red;"> I will be on the job market for full-time industry positions beginning in Fall 2026. </p>
 
 Email: myan at cs dot wisc dot edu
