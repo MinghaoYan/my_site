@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Scaling Inference-Efficient Language Models"
-authors: [Song Bian*, Minghao Yan*, Shivaram Venkataraman]
+authors: [Song Bian, Minghao Yan, Shivaram Venkataraman]
 date: 2025-01-30T10:40:23-06:00
 doi: ""
 

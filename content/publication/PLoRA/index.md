@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PLoRA: Efficient LoRA Hyperparameter Tuning for Large Models"
-authors: [Minghao Yan*, Zhuang Wang*, Zhen Jia, Shivaram Venkataraman, Yida Wang]
+authors: [Minghao Yan, Zhuang Wang, Zhen Jia, Shivaram Venkataraman, Yida Wang]
 date: 2025-08-05T10:40:23-06:00
 doi: ""
 

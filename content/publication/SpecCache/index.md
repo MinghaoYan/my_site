@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "What Limits Agentic Systems Efficiency?"
-authors: [Song Bian*, Minghao Yan*, Anand Jayarajan, Gennady Pekhimenko, Shivaram Venkataraman]
+authors: [Song Bian, Minghao Yan, Anand Jayarajan, Gennady Pekhimenko, Shivaram Venkataraman]
 date: 2025-10-18T10:40:23-06:00
 doi: ""
 
